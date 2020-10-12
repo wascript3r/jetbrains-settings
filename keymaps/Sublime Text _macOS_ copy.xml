@@ -2,6 +2,9 @@
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
