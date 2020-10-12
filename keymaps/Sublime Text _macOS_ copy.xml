@@ -1,0 +1,19 @@
+<keymap version="1" name="Sublime Text (macOS) copy" parent="Sublime Text (Mac OS X)">
+  <action id="$LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="Editor LRU">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+    <keyboard-shortcut first-keystroke="shift meta space" />
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+  </action>
+  <action id="OpenFile" />
+  <action id="Vcs.Log.FocusTextFilter" />
+</keymap>
