@@ -24,6 +24,10 @@
   <action id="Macro.Resize sidebar">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="OpenFile" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
