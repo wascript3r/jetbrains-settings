@@ -21,6 +21,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="Exit" />
+  <action id="Macro.Resize sidebar">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="OpenFile" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
