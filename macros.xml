@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="aa" />
+    <macro name="Resize sidebar">
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowLeft" />
+      <action id="ResizeToolWindowRight" />
+      <action id="ResizeToolWindowRight" />
+      <action id="ResizeToolWindowRight" />
+      <action id="ResizeToolWindowRight" />
+    </macro>
+  </component>
+</application>
