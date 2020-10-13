@@ -14,6 +14,7 @@
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
+  <action id="EditorAddOrRemoveCaret" />
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
@@ -24,6 +25,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="Exit" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="Macro.Resize sidebar">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
@@ -39,7 +44,11 @@
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="NavBar-navigate" />
   <action id="OpenFile" />
+  <action id="RunToCursor">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
   <action id="ShowSearchHistory" />
   <action id="Vcs.Log.FocusTextFilter" />
 </keymap>
