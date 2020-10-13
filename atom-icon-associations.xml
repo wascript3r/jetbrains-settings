@@ -4,9 +4,10 @@
       <CustomAssociations>
         <option name="customAssociations">
           <RegexAssociation>
-            <option name="matcher" value=".*\.go$" />
-            <option name="pattern" value=".*\.go$" />
+            <option name="matcher" value=".*\.go" />
+            <option name="pattern" value=".*\.go" />
             <option name="name" value="Go" />
+            <option name="icon" value="$USER_HOME$/Desktop/Failai/Programavimas/golang/Go-Logo_Blue.svg" />
           </RegexAssociation>
         </option>
       </CustomAssociations>
