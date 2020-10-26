@@ -1,0 +1,10 @@
+<application>
+  <component name="MissingInActions">
+    <option name="autoLineMode" value="2" />
+    <option name="caretOnMoveSelectionDown" value="1" />
+    <option name="caretOnMoveSelectionUp" value="1" />
+    <option name="mouseModifier" value="1" />
+    <option name="primaryCaretColor" value="-4473925" />
+    <option name="upDownSelection" value="true" />
+  </component>
+</application>

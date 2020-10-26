@@ -15,7 +15,7 @@
     <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="EditorAddOrRemoveCaret" />
-  <action id="EditorSelectLine">
+  <action id="EditorDownWithSelection">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorSelectWord">
